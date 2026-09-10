@@ -1,0 +1,11 @@
+# Source screenshots already extracted into images/ — not needed in the deployed site
+Screenshot *.png
+WhatsApp Image*.jpeg
+WhatsApp Video*.mp4
+
+# Unrelated large binary, not part of the website
+jcode-windows-x86_64.exe
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
