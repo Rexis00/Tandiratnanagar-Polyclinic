@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Rexis00/Tandiratnanagar-Polyclinic
   branch: main
-  base_url: https://REPLACE-WITH-YOUR-LIVE-DOMAIN
+  base_url: https://tandiratnanagarpolyclinic-git-main-rexis00.vercel.app
   auth_endpoint: api/auth
 
 media_folder: "images"
