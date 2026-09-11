@@ -77,7 +77,7 @@
       "specialty": "Urology & Male Reproductive",
       "qualifications": "M.B.B.S., M.S. Urology (5-Yr TU)",
       "nmc": "13200",
-      "schedule": "Daily: morning 8:00 AM; evening 4:00 PM",
+      "schedule": "Daily: morning 8:00 AM; evening 7:00 PM",
       "department": "Urology",
       "photo": ""
     },
@@ -113,16 +113,16 @@
       "specialty": "Pediatrics & Neonatology",
       "qualifications": "M.B.B.S., M.D. (NAMS)",
       "nmc": "16332",
-      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "schedule": "Daily: 7–9 AM and 5:00 PM onward",
       "department": "Pediatrics",
       "photo": "images/dr-jiban-kharel.webp"
     },
     {
-      "name": "Dr. Prakash Pandey",
+      "name": "Dr. Bikash Pandey",
       "specialty": "Otorhinolaryngology (ENT)",
       "qualifications": "M.B.B.S., M.S.",
       "nmc": "8645",
-      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 5:00 PM",
       "department": "ENT",
       "photo": ""
     },
@@ -131,7 +131,7 @@
       "specialty": "Otorhinolaryngology (ENT-HNS)",
       "qualifications": "M.B.B.S. (KU), M.S.",
       "nmc": "18090",
-      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "schedule": "Daily: 8:00 AM and 5:00 PM",
       "department": "ENT",
       "photo": ""
     },
@@ -149,7 +149,7 @@
       "specialty": "Dermatology & Venereology",
       "qualifications": "M.B.B.S., M.D. (KU)",
       "nmc": "21163",
-      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 5:00 PM",
       "department": "Dermatology",
       "photo": "images/dr-sabin-kandel.webp"
     },
@@ -158,7 +158,7 @@
       "specialty": "Obstetrics & Gynecology",
       "qualifications": "M.B.B.S., M.D. (TUTH-IOM)",
       "nmc": "22903",
-      "schedule": "Every Saturday at 3:00 PM",
+      "schedule": "Daily: 8:30 AM, 1:00 PM and 5:00 PM",
       "department": "Obstetrics",
       "photo": "images/dr-rajiv-poudel.webp"
     },
@@ -167,7 +167,7 @@
       "specialty": "Obstetrics & Gynecology",
       "qualifications": "M.B.B.S., M.D.",
       "nmc": "23518",
-      "schedule": "Every Saturday at 3:00 PM",
+      "schedule": "Daily: 8:30 AM, 1:00 PM and 5:00 PM",
       "department": "Obstetrics",
       "photo": "images/dr-yashu-malla.webp"
     },
@@ -176,7 +176,7 @@
       "specialty": "Diagnostic Radiology & USG",
       "qualifications": "M.B.B.S., M.D.",
       "nmc": "3949",
-      "schedule": "Daily: 9:00 AM, 1:00 PM and 3:00 PM",
+      "schedule": "Daily: 10:00 AM to 1:00 PM; Saturday: 9:00 AM to 3:00 PM",
       "department": "Radiology",
       "photo": "images/dr-awadhesh-kumar-yadav.webp"
     },
@@ -185,7 +185,7 @@
       "specialty": "Diagnostic Radiology & USG",
       "qualifications": "M.B.B.S., M.D.",
       "nmc": "12486",
-      "schedule": "Daily scheduled rotational shifts",
+      "schedule": "Daily: 8:30 AM, 1:00 PM and 5:00 PM",
       "department": "Radiology",
       "photo": ""
     }
