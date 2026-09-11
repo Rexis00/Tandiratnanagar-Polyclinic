@@ -21,7 +21,7 @@
     {
       "name": "Dr. Hari Krishna Dhakal",
       "specialty": "Internal Medicine",
-      "qualifications": "M.B.B.S., M.D. (Internal Medicine)",
+      "qualifications": "M.B.B.S., M.D.",
       "nmc": "8360",
       "schedule": "Every Monday at 5:00 PM",
       "department": "Internal Medicine",
@@ -30,7 +30,7 @@
     {
       "name": "Dr. Sandesh Rauniyar",
       "specialty": "Internal Medicine",
-      "qualifications": "M.B.B.S., M.D. (Internal Medicine)",
+      "qualifications": "M.B.B.S., M.D.",
       "nmc": "14832",
       "schedule": "Daily: morning till 9:30 AM; afternoon after 3:00 PM",
       "department": "Internal Medicine",
@@ -39,7 +39,7 @@
     {
       "name": "Dr. Dipendra Karki",
       "specialty": "Endocrinology & Thyroid",
-      "qualifications": "M.B.B.S., M.D. (Endocrinology 5-Yr)",
+      "qualifications": "M.B.B.S., M.D. (5-Yr)",
       "nmc": "6844",
       "schedule": "Last Tuesday of every month at 10:00 AM",
       "department": "Internal Medicine",
@@ -48,7 +48,7 @@
     {
       "name": "Dr. Suraj Bidari",
       "specialty": "Orthopedics & Traumatology",
-      "qualifications": "M.B.B.S., M.S. (Orthopedics)",
+      "qualifications": "M.B.B.S., M.S.",
       "nmc": "10405",
       "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
       "department": "Orthopedics",
@@ -57,7 +57,7 @@
     {
       "name": "Dr. Prakash Kandel",
       "specialty": "Orthopedics & Traumatology",
-      "qualifications": "M.B.B.S., M.S. (Orthopedics)",
+      "qualifications": "M.B.B.S., M.S.",
       "nmc": "12165",
       "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
       "department": "Orthopedics",
@@ -84,7 +84,7 @@
     {
       "name": "Dr. Dipendra Kumar Mallik",
       "specialty": "General & Gastro Surgery",
-      "qualifications": "M.B.B.S., M.S. (General Surgery)",
+      "qualifications": "M.B.B.S., M.S.",
       "nmc": "21191",
       "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
       "department": "Internal Medicine",
@@ -120,7 +120,7 @@
     {
       "name": "Dr. Prakash Pandey",
       "specialty": "Otorhinolaryngology (ENT)",
-      "qualifications": "M.B.B.S., M.S. (ENT)",
+      "qualifications": "M.B.B.S., M.S.",
       "nmc": "8645",
       "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
       "department": "ENT",
@@ -129,7 +129,7 @@
     {
       "name": "Dr. Manisha Aryal",
       "specialty": "Otorhinolaryngology (ENT-HNS)",
-      "qualifications": "M.B.B.S. (KU), M.S. (ENT-HNS)",
+      "qualifications": "M.B.B.S. (KU), M.S.",
       "nmc": "18090",
       "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
       "department": "ENT",
@@ -165,7 +165,7 @@
     {
       "name": "Dr. Yashu Malla",
       "specialty": "Obstetrics & Gynecology",
-      "qualifications": "M.B.B.S., M.D. (Obs & Gynae)",
+      "qualifications": "M.B.B.S., M.D.",
       "nmc": "23518",
       "schedule": "Every Saturday at 3:00 PM",
       "department": "Obstetrics",
@@ -174,7 +174,7 @@
     {
       "name": "Dr. Awadhesh Kumar Yadav",
       "specialty": "Diagnostic Radiology & USG",
-      "qualifications": "M.B.B.S., M.D. (Radiology)",
+      "qualifications": "M.B.B.S., M.D.",
       "nmc": "3949",
       "schedule": "Daily: 9:00 AM, 1:00 PM and 3:00 PM",
       "department": "Radiology",
@@ -183,7 +183,7 @@
     {
       "name": "Dr. Shilpa Pradhan",
       "specialty": "Diagnostic Radiology & USG",
-      "qualifications": "M.B.B.S., M.D. (Radiology)",
+      "qualifications": "M.B.B.S., M.D.",
       "nmc": "12486",
       "schedule": "Daily scheduled rotational shifts",
       "department": "Radiology",
@@ -192,7 +192,7 @@
     {
       "name": "Dr. Bishesh Lamichhane",
       "specialty": "Diagnostic Radiology & USG",
-      "qualifications": "M.B.B.S., M.D. (Radiology)",
+      "qualifications": "M.B.B.S., M.D.",
       "nmc": "20917",
       "schedule": "Daily scheduled rotational shifts",
       "department": "Radiology",
