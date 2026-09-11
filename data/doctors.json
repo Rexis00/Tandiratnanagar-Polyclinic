@@ -32,13 +32,13 @@
       "specialty": "Internal Medicine",
       "qualifications": "M.B.B.S., M.D.",
       "nmc": "14832",
-      "schedule": "Daily: morning till 9:30 AM; afternoon after 3:00 PM",
+      "schedule": "Daily: morning till 9:00 AM; afternoon after 4:00 PM",
       "department": "Internal Medicine",
       "photo": "images/dr-sandesh-rauniyar.webp"
     },
     {
       "name": "Dr. Dipendra Karki",
-      "specialty": "Endocrinology & Thyroid",
+      "specialty": "Endocrinology, Thyroid & Hormone",
       "qualifications": "M.B.B.S., M.D. (5-Yr)",
       "nmc": "6844",
       "schedule": "Last Tuesday of every month at 10:00 AM",
