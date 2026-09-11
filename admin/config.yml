@@ -1,0 +1,40 @@
+backend:
+  name: github
+  repo: Rexis00/Tandiratnanagar-Polyclinic
+  branch: main
+  base_url: https://REPLACE-WITH-YOUR-LIVE-DOMAIN
+  auth_endpoint: api/auth
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "doctors"
+    label: "Doctors"
+    files:
+      - name: "doctors"
+        label: "Specialist Directory"
+        file: "data/doctors.json"
+        fields:
+          - label: "Doctors"
+            name: "doctors"
+            widget: "list"
+            summary: "{{fields.name}} — {{fields.department}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string", hint: "Include the \"Dr.\" prefix, e.g. Dr. Sabin Kandel" }
+              - { label: "Specialty", name: "specialty", widget: "string" }
+              - { label: "Qualifications", name: "qualifications", widget: "string" }
+              - { label: "NMC Registration Number", name: "nmc", widget: "string" }
+              - { label: "Consultation Schedule", name: "schedule", widget: "string" }
+              - label: "Department"
+                name: "department"
+                widget: "select"
+                options:
+                  - "Internal Medicine"
+                  - "Orthopedics"
+                  - "Pediatrics"
+                  - "ENT"
+                  - "Dermatology"
+                  - "Obstetrics"
+                  - "Radiology"
+              - { label: "Photo", name: "photo", widget: "image", required: false, hint: "Upload a photo, or leave blank to show initials instead" }

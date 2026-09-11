@@ -1,0 +1,202 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Pramod Poudel",
+      "specialty": "Internal Medicine & Cardiology",
+      "qualifications": "M.B.B.S., M.D. (TUTH, IOM)",
+      "nmc": "6328",
+      "schedule": "Every Saturday at 1:00 PM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-pramod-poudel.webp"
+    },
+    {
+      "name": "Dr. Gauri Ram Mahato",
+      "specialty": "Internal Medicine",
+      "qualifications": "M.B.B.S., M.D. (TU)",
+      "nmc": "6446",
+      "schedule": "Every Wednesday & Thursday at 2:00 PM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-gauri-ram-mahato.webp"
+    },
+    {
+      "name": "Dr. Hari Krishna Dhakal",
+      "specialty": "Internal Medicine",
+      "qualifications": "M.B.B.S., M.D. (Internal Medicine)",
+      "nmc": "8360",
+      "schedule": "Every Monday at 5:00 PM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-hari-krishna-dhakal.webp"
+    },
+    {
+      "name": "Dr. Sandesh Rauniyar",
+      "specialty": "Internal Medicine",
+      "qualifications": "M.B.B.S., M.D. (Internal Medicine)",
+      "nmc": "14832",
+      "schedule": "Daily: morning till 9:30 AM; afternoon after 3:00 PM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-sandesh-rauniyar.webp"
+    },
+    {
+      "name": "Dr. Dipendra Karki",
+      "specialty": "Endocrinology & Thyroid",
+      "qualifications": "M.B.B.S., M.D. (Endocrinology 5-Yr)",
+      "nmc": "6844",
+      "schedule": "Last Tuesday of every month at 10:00 AM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-dipendra-karki.webp"
+    },
+    {
+      "name": "Dr. Suraj Bidari",
+      "specialty": "Orthopedics & Traumatology",
+      "qualifications": "M.B.B.S., M.S. (Orthopedics)",
+      "nmc": "10405",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "Orthopedics",
+      "photo": "images/dr-suraj-bidari.webp"
+    },
+    {
+      "name": "Dr. Prakash Kandel",
+      "specialty": "Orthopedics & Traumatology",
+      "qualifications": "M.B.B.S., M.S. (Orthopedics)",
+      "nmc": "12165",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "Orthopedics",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Rabindra Adhikari",
+      "specialty": "Orthopedics & Traumatology",
+      "qualifications": "M.B.B.S. (TU), M.S. Ortho (BPKIHS)",
+      "nmc": "14216",
+      "schedule": "Daily: morning till 9:30 AM; afternoon after 3:00 PM",
+      "department": "Orthopedics",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Narayan Dulal",
+      "specialty": "Urology & Male Reproductive",
+      "qualifications": "M.B.B.S., M.S. Urology (5-Yr TU)",
+      "nmc": "13200",
+      "schedule": "Daily: morning 8:00 AM; evening 4:00 PM",
+      "department": "Internal Medicine",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Dipendra Kumar Mallik",
+      "specialty": "General & Gastro Surgery",
+      "qualifications": "M.B.B.S., M.S. (General Surgery)",
+      "nmc": "21191",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-dipendra-kumar-mallik.webp"
+    },
+    {
+      "name": "Dr. Vivek Malakar",
+      "specialty": "Neuropsychiatry",
+      "qualifications": "M.B.B.S., M.D. (NAMS) Consultant",
+      "nmc": "22458",
+      "schedule": "Daily: evening at 4:00 PM",
+      "department": "Internal Medicine",
+      "photo": "images/dr-vivek-malakar.webp"
+    },
+    {
+      "name": "Dr. Jagan Nath Shah",
+      "specialty": "Pediatrics & Neonatology",
+      "qualifications": "M.B.B.S., M.D.",
+      "nmc": "11388",
+      "schedule": "Daily: 9 AM, 1–2 PM and 3–5 PM",
+      "department": "Pediatrics",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Jiban Kharel",
+      "specialty": "Pediatrics & Neonatology",
+      "qualifications": "M.B.B.S., M.D. (NAMS)",
+      "nmc": "16332",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "Pediatrics",
+      "photo": "images/dr-jiban-kharel.webp"
+    },
+    {
+      "name": "Dr. Prakash Pandey",
+      "specialty": "Otorhinolaryngology (ENT)",
+      "qualifications": "M.B.B.S., M.S. (ENT)",
+      "nmc": "8645",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "ENT",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Manisha Aryal",
+      "specialty": "Otorhinolaryngology (ENT-HNS)",
+      "qualifications": "M.B.B.S. (KU), M.S. (ENT-HNS)",
+      "nmc": "18090",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "ENT",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Harendra Kumar Jha",
+      "specialty": "Dermatology & Venereology",
+      "qualifications": "M.B.B.S., M.D. (BPKIHS Dharan)",
+      "nmc": "3289",
+      "schedule": "Every Saturday at 1:00 PM",
+      "department": "Dermatology",
+      "photo": "images/dr-harendra-kumar-jha.webp"
+    },
+    {
+      "name": "Dr. Sabin Kandel",
+      "specialty": "Dermatology & Venereology",
+      "qualifications": "M.B.B.S., M.D. (KU)",
+      "nmc": "21163",
+      "schedule": "Daily: 7–9 AM, 1–2 PM and 3–7 PM",
+      "department": "Dermatology",
+      "photo": "images/dr-sabin-kandel.webp"
+    },
+    {
+      "name": "Dr. Rajiv Poudel",
+      "specialty": "Obstetrics & Gynecology",
+      "qualifications": "M.B.B.S., M.D. (TUTH-IOM)",
+      "nmc": "22903",
+      "schedule": "Every Saturday at 3:00 PM",
+      "department": "Obstetrics",
+      "photo": "images/dr-rajiv-poudel.webp"
+    },
+    {
+      "name": "Dr. Yashu Malla",
+      "specialty": "Obstetrics & Gynecology",
+      "qualifications": "M.B.B.S., M.D. (Obs & Gynae)",
+      "nmc": "23518",
+      "schedule": "Every Saturday at 3:00 PM",
+      "department": "Obstetrics",
+      "photo": "images/dr-yashu-malla.webp"
+    },
+    {
+      "name": "Dr. Awadhesh Kumar Yadav",
+      "specialty": "Diagnostic Radiology & USG",
+      "qualifications": "M.B.B.S., M.D. (Radiology)",
+      "nmc": "3949",
+      "schedule": "Daily: 9:00 AM, 1:00 PM and 3:00 PM",
+      "department": "Radiology",
+      "photo": "images/dr-awadhesh-kumar-yadav.webp"
+    },
+    {
+      "name": "Dr. Shilpa Pradhan",
+      "specialty": "Diagnostic Radiology & USG",
+      "qualifications": "M.B.B.S., M.D. (Radiology)",
+      "nmc": "12486",
+      "schedule": "Daily scheduled rotational shifts",
+      "department": "Radiology",
+      "photo": ""
+    },
+    {
+      "name": "Dr. Bishesh Lamichhane",
+      "specialty": "Diagnostic Radiology & USG",
+      "qualifications": "M.B.B.S., M.D. (Radiology)",
+      "nmc": "20917",
+      "schedule": "Daily scheduled rotational shifts",
+      "department": "Radiology",
+      "photo": ""
+    }
+  ]
+}
