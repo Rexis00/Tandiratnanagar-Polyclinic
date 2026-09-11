@@ -2,19 +2,19 @@
   "doctors": [
     {
       "name": "Dr. Pramod Poudel",
-      "specialty": "Internal Medicine & Cardiology",
+      "specialty": "Internal Medicine",
       "qualifications": "M.B.B.S., M.D. (TUTH, IOM)",
       "nmc": "6328",
-      "schedule": "Every Saturday at 1:00 PM",
+      "schedule": "Every Saturday at 10:00 AM and 2:00 PM",
       "department": "Internal Medicine",
       "photo": "images/dr-pramod-poudel.webp"
     },
     {
       "name": "Dr. Gauri Ram Mahato",
       "specialty": "Internal Medicine",
-      "qualifications": "M.B.B.S., M.D. (TU)",
+      "qualifications": "M.B.B.S., M.D. (TUTH)",
       "nmc": "6446",
-      "schedule": "Every Wednesday & Thursday at 2:00 PM",
+      "schedule": "Every Wednesday, Thursday & Saturday at 2:00 PM",
       "department": "Internal Medicine",
       "photo": "images/dr-gauri-ram-mahato.webp"
     },
