@@ -188,6 +188,15 @@
       "schedule": "Daily: 8:30 AM, 1:00 PM and 5:00 PM",
       "department": "Radiology",
       "photo": "images/dr-shilpa-pradhan.webp"
+    },
+    {
+      "name": "Dr. Bishesh Lamichhane",
+      "specialty": "Diagnostic Radiology & USG",
+      "qualifications": "M.B.B.S., M.D.",
+      "nmc": "20917",
+      "schedule": "Daily scheduled rotational shifts",
+      "department": "Radiology",
+      "photo": "images/dr-bishesh-lamichhane.webp"
     }
   ]
 }
