@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Rexis00/Tandiratnanagar-Polyclinic
   branch: main
-  base_url: https://tandiratnanagarpolyclinic-git-main-rexis00.vercel.app
+  base_url: https://www.tandiratnanagarpolyclinic.com.np
   auth_endpoint: api/auth
 
 media_folder: "images"
@@ -37,4 +37,8 @@ collections:
                   - "Dermatology"
                   - "Obstetrics"
                   - "Radiology"
+                  - "Endocrinology"
+                  - "Urology"
+                  - "Neuropsychiatry"
+                  - "General Surgery"
               - { label: "Photo", name: "photo", widget: "image", required: false, hint: "Upload a photo, or leave blank to show initials instead" }
