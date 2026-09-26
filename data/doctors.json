@@ -73,6 +73,15 @@
       "photo": "images/dr-rabindra-adhikari.webp"
     },
     {
+      "name": "Dr. Kshiteez Puri",
+      "specialty": "Orthopedics & Trauma",
+      "qualifications": "M.B.B.S., M.S. (NBMS Fellow)",
+      "nmc": "23651",
+      "schedule": "Daily: 9:00 AM to 9:00 PM",
+      "department": "Orthopedics",
+      "photo": "images/dr-kshiteez-puri.webp"
+    },
+    {
       "name": "Dr. Narayan Dulal",
       "specialty": "Urology & Male Reproductive",
       "qualifications": "M.B.B.S., M.S. Urology (5-Yr TU)",
